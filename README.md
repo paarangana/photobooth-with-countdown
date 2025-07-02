@@ -17,4 +17,9 @@ Main functions used:
 - cv.imshow(): displays the webcam feed
 - cv.read(): captures webcam frames in real time
 
+How the webcam feed looks like:
+
+<img width="949" alt="image" src="https://github.com/user-attachments/assets/5612f945-0730-43f9-8700-640d0df1001a" />
+
+
 
